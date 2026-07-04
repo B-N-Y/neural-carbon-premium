@@ -1,0 +1,11 @@
+# Replication environment — Python 3.10+
+# Install: pip install -r requirements.txt
+pandas>=1.5
+numpy>=1.23
+scipy>=1.9
+statsmodels>=0.13
+linearmodels>=4.27
+scikit-learn>=1.1
+econml>=0.14
+matplotlib>=3.6
+seaborn>=0.12

@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+.ipynb_checkpoints/
+
+# Data (proprietary — Refinitiv, cannot be redistributed)
+data/
+*.csv
+*.parquet
+*.xlsx
+
+# Outputs / build
+results/
+*.log
+.DS_Store
